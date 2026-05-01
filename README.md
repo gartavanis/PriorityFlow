@@ -1,5 +1,7 @@
 PriorityFlow
 =======
+**Please note that the R package PriorityFlow is no longer being maintained. The package has been ported to Python as priority_flow. You can checkout the documentation [here](https://priority-flow.readthedocs.io/en/latest/). The repository for the Python package is [here](https://github.com/hydroframe/priority_flow).
+
 *PriorityFlow* is a toolkit for topographic processing for hydrologic models. This repo contains an R package and a set of workflow examples (see instructions below).  
 
 #### Development Team
